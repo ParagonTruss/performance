@@ -1,5 +1,0 @@
-<linker>
-  <assembly fullname="System.Private.DataContractSerialization">
-    <type fullname="System.Runtime.Serialization.DateTimeOffsetAdapter" />
-  </assembly>
-</linker>

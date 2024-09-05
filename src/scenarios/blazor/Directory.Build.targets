@@ -1,3 +1,0 @@
-<Project>
-  <Import Project="$(BuildCommonPath)\WasmOverridePacks.targets" Condition="'$(WasmNativeWorkload)' == 'true'" />
-</Project>
